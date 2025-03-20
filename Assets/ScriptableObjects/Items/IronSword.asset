@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52a884901f787ad40a09012f732d323f, type: 3}
+  m_Name: IronSword
+  m_EditorClassIdentifier: 
+  itemName: Iron Sword
+  itemDescription: A sturdy and reliable sword forged from solid iron. Though lacking
+    the brilliance of gold or the magic of silver, its resilience and sharp edge
+    make it a trusted weapon for any warrior, from novice to veteran.
+  itemType: 0
+  itemIcon: {fileID: 997405482, guid: 6df7975cc6b070e4395d4c055b61e5a1, type: 3}
+  useUniqueSlot: 0
+  itemWeight: 20
+  attackDamage: 20
+  attackSpeed: 5
+  criticalChance: 5
+  health: 0

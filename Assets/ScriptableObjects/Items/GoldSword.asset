@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52a884901f787ad40a09012f732d323f, type: 3}
+  m_Name: GoldSword
+  m_EditorClassIdentifier: 
+  itemName: Gold Sword
+  itemDescription: A majestic sword forged from pure gold, shining brilliantly even
+    in the darkest places. Though heavier than steel, its enchanted edge never dulls,
+    making it a symbol of power and prestige among warriors.
+  itemType: 0
+  itemIcon: {fileID: -1484438646, guid: 6df7975cc6b070e4395d4c055b61e5a1, type: 3}
+  useUniqueSlot: 1
+  itemWeight: 20
+  attackDamage: 50
+  attackSpeed: 10
+  criticalChance: 0
+  health: 0
